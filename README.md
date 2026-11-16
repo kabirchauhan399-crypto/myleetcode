@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/kabirchauhan399-crypto/myleetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/kabirchauhan399-crypto/myleetcode/tree/master/0704-binary-search) |
+| [1470-shuffle-the-array](https://github.com/kabirchauhan399-crypto/myleetcode/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/kabirchauhan399-crypto/myleetcode/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
