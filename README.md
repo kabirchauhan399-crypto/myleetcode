@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kabirchauhan399-crypto/myleetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/kabirchauhan399-crypto/myleetcode/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kabirchauhan399-crypto/myleetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/kabirchauhan399-crypto/myleetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/kabirchauhan399-crypto/myleetcode/tree/master/0704-binary-search) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/kabirchauhan399-crypto/myleetcode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/kabirchauhan399-crypto/myleetcode/tree/master/0704-binary-search) |
 ## Design
 |  |
